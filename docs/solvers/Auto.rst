@@ -5,6 +5,7 @@ AutoSearch
 ^^^^^^^^^^
 
 .. autoclass:: flopt.solvers.auto_search.AutoSearch
+   :members:
 
 
 How solver is selected?
