@@ -2,7 +2,8 @@ from flopt.constants import VariableType
 
 
 class Monomial:
-    """
+    """Monomial manager
+    
     Parameters
     ----------
     terms : dict(Variable=exponentiation)
